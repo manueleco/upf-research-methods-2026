@@ -1,0 +1,363 @@
+[
+  {
+    "id": "A1",
+    "title": "Assignment 1",
+    "start": "2026-10-09",
+    "end": "2026-10-09",
+    "group": "Todos",
+    "official": true,
+    "where": "https://aulaglobal.upf.edu/mod/page/view.php?id=1800753",
+    "resources": [
+      "read-intro"
+    ],
+    "depends": "",
+    "detail": "Leer UN capítulo de Eco o de O’Leary y completar el formulario correspondiente. Plazo vencido; comprobar justificante, no asumir que falta.",
+    "status": "Por confirmar"
+  },
+  {
+    "id": "G-T",
+    "title": "Equipo y tema",
+    "start": "2026-10-06",
+    "end": "2026-10-06",
+    "group": "Martes",
+    "official": true,
+    "where": "https://aulaglobal.upf.edu/mod/url/view.php?id=1800806",
+    "resources": [
+      "mere"
+    ],
+    "depends": "",
+    "detail": "Equipo de 4 y registro del tema antes de clase. Comprobar que se hizo.",
+    "status": "Por confirmar"
+  },
+  {
+    "id": "G-F",
+    "title": "Equipo y tema",
+    "start": "2026-10-09",
+    "end": "2026-10-09",
+    "group": "Viernes",
+    "official": true,
+    "where": "https://aulaglobal.upf.edu/mod/url/view.php?id=1800806",
+    "resources": [
+      "mere"
+    ],
+    "depends": "",
+    "detail": "Equipo de 4 y registro del tema antes de clase. Comprobar que se hizo.",
+    "status": "Por confirmar"
+  },
+  {
+    "id": "E1",
+    "title": "Formación ética y certificado",
+    "start": "2026-10-13",
+    "end": "2026-10-17",
+    "group": "Todos",
+    "official": false,
+    "where": "https://www.upf.edu/web/cirep/training-and-resources",
+    "resources": [
+      "reality",
+      "read-reality"
+    ],
+    "depends": "",
+    "detail": "Formación UPF o equivalente previo. Guardar certificado localmente.",
+    "status": "Pendiente"
+  },
+  {
+    "id": "A2",
+    "title": "Assignment 2 · ética",
+    "start": "2026-10-19",
+    "end": "2026-10-19",
+    "group": "Todos",
+    "official": true,
+    "where": "https://aulaglobal.upf.edu/mod/url/view.php?id=1800759",
+    "resources": [
+      "reality",
+      "read-reality"
+    ],
+    "depends": "E1",
+    "detail": "Formulario: certificado, indicar si es de UPF, 1–3 ideas sobre lo que ya sabías y 1–3 sobre lo aprendido. Hora límite no publicada.",
+    "status": "Pendiente"
+  },
+  {
+    "id": "L1",
+    "title": "3–4 referencias por miembro",
+    "start": "2026-10-13",
+    "end": "2026-10-18",
+    "group": "Todos",
+    "official": false,
+    "where": "",
+    "resources": [
+      "sources",
+      "databases",
+      "read-sources"
+    ],
+    "depends": "",
+    "detail": "Registrar referencia, autor del hallazgo, resumen, calidad y relación con la pregunta. Mendeley y APA 7 recomendados.",
+    "status": "Pendiente"
+  },
+  {
+    "id": "Q1",
+    "title": "Pregunta, revisión y justificación",
+    "start": "2026-10-18",
+    "end": "2026-10-21",
+    "group": "Todos",
+    "official": false,
+    "where": "",
+    "resources": [
+      "session2",
+      "formulation",
+      "mere"
+    ],
+    "depends": "L1",
+    "detail": "Definir una pregunta sobre cómo las herramientas IA afectan al trabajo de investigación y una metodología viable.",
+    "status": "Pendiente"
+  },
+  {
+    "id": "D1",
+    "title": "Redactar y revisar PDF A3",
+    "start": "2026-10-21",
+    "end": "2026-10-23",
+    "group": "Todos",
+    "official": false,
+    "where": "",
+    "resources": [
+      "sources",
+      "formulation",
+      "mere"
+    ],
+    "depends": "Q1",
+    "detail": "2 páginas de texto + 1 de referencias; incluir apéndice de contribuciones. Confirmar si el apéndice cuenta dentro del límite.",
+    "status": "Pendiente"
+  },
+  {
+    "id": "A3",
+    "title": "Assignment 3 · borrador MERE",
+    "start": "2026-10-24",
+    "end": "2026-10-24",
+    "group": "Todos",
+    "official": true,
+    "where": "https://aulaglobal.upf.edu/mod/assign/view.php?id=1800813",
+    "resources": [
+      "mere",
+      "formulation",
+      "sources"
+    ],
+    "depends": "D1",
+    "detail": "Hasta 23:59 (hora mostrada en Aula). PDF con preguntas, revisión breve, importancia/originalidad y referencias. Sin envío al revisar el 13/10.",
+    "status": "Pendiente"
+  },
+  {
+    "id": "P0",
+    "title": "Preparar pitch de 7 minutos",
+    "start": "2026-10-24",
+    "end": "2026-10-26",
+    "group": "Todos",
+    "official": false,
+    "where": "",
+    "resources": [
+      "formulation",
+      "mere"
+    ],
+    "depends": "A3",
+    "detail": "Tema, problema, pregunta y enfoque metodológico. Ensayar y distribuir intervenciones.",
+    "status": "Pendiente"
+  },
+  {
+    "id": "P-T",
+    "title": "Pitch · martes",
+    "start": "2026-10-27",
+    "end": "2026-10-27",
+    "group": "Martes",
+    "official": true,
+    "where": "https://aulaglobal.upf.edu/mod/resource/view.php?id=1800805",
+    "resources": [
+      "mere"
+    ],
+    "depends": "P0",
+    "detail": "7 minutos por grupo. Correspondencia martes/27 inferida por día de la semana; confirmar horario.",
+    "status": "Pendiente"
+  },
+  {
+    "id": "P-F",
+    "title": "Pitch · viernes",
+    "start": "2026-10-30",
+    "end": "2026-10-30",
+    "group": "Viernes",
+    "official": true,
+    "where": "https://aulaglobal.upf.edu/mod/resource/view.php?id=1800805",
+    "resources": [
+      "mere"
+    ],
+    "depends": "P0",
+    "detail": "7 minutos por grupo. Correspondencia viernes/30 inferida por día de la semana; confirmar horario.",
+    "status": "Pendiente"
+  },
+  {
+    "id": "M1",
+    "title": "Ejecutar estudio y analizar datos",
+    "start": "2026-10-28",
+    "end": "2026-11-05",
+    "group": "Todos",
+    "official": false,
+    "where": "",
+    "resources": [
+      "session2",
+      "formulation"
+    ],
+    "depends": "Q1",
+    "detail": "Plan propuesto: fijar protocolo, conservar datos y registrar herramientas/versiones, criterios y limitaciones.",
+    "status": "Pendiente"
+  },
+  {
+    "id": "M2",
+    "title": "Escribir paper y declaración de autoría",
+    "start": "2026-11-05",
+    "end": "2026-11-10",
+    "group": "Todos",
+    "official": false,
+    "where": "",
+    "resources": [
+      "word",
+      "latex",
+      "mere"
+    ],
+    "depends": "M1",
+    "detail": "Máximo 8 páginas + referencias. Revisar evidencia, método, resultados, discusión y autoría.",
+    "status": "Pendiente"
+  },
+  {
+    "id": "M3",
+    "title": "Primer envío del paper",
+    "start": "2026-11-11",
+    "end": "2026-11-11",
+    "group": "Todos",
+    "official": true,
+    "where": "https://aulaglobal.upf.edu/mod/resource/view.php?id=1800805",
+    "resources": [
+      "mere",
+      "word",
+      "latex"
+    ],
+    "depends": "M2",
+    "detail": "EasyChair MERE 2026. URL específica y hora pendientes de publicación/verificación; el enlace abre instrucciones.",
+    "status": "Pendiente"
+  },
+  {
+    "id": "R1",
+    "title": "Preparar revisión por pares",
+    "start": "2026-11-12",
+    "end": "2026-11-17",
+    "group": "Todos",
+    "official": false,
+    "where": "",
+    "resources": [
+      "mere"
+    ],
+    "depends": "M3",
+    "detail": "Leer trabajos asignados y elaborar comentarios sustentados sobre método, evidencia, claridad y mejoras.",
+    "status": "Pendiente"
+  },
+  {
+    "id": "R2",
+    "title": "Revisión por pares",
+    "start": "2026-11-18",
+    "end": "2026-11-18",
+    "group": "Todos",
+    "official": true,
+    "where": "https://aulaglobal.upf.edu/mod/resource/view.php?id=1800805",
+    "resources": [
+      "mere"
+    ],
+    "depends": "R1",
+    "detail": "Hito de peer review del calendario. Número de trabajos, rúbrica y sistema de entrega por confirmar.",
+    "status": "Pendiente"
+  },
+  {
+    "id": "F1",
+    "title": "Integrar feedback y revisar paper",
+    "start": "2026-11-19",
+    "end": "2026-11-24",
+    "group": "Todos",
+    "official": false,
+    "where": "",
+    "resources": [
+      "mere",
+      "word",
+      "latex"
+    ],
+    "depends": "R2",
+    "detail": "Registrar cada comentario, respuesta y cambio; preparar versión final.",
+    "status": "Pendiente"
+  },
+  {
+    "id": "F2",
+    "title": "Versión final del paper",
+    "start": "2026-11-25",
+    "end": "2026-11-25",
+    "group": "Todos",
+    "official": true,
+    "where": "https://aulaglobal.upf.edu/mod/resource/view.php?id=1800805",
+    "resources": [
+      "mere"
+    ],
+    "depends": "F1",
+    "detail": "Reenvío del paper. Hora y enlace definitivo por confirmar.",
+    "status": "Pendiente"
+  },
+  {
+    "id": "C1",
+    "title": "Preparar póster y presentación",
+    "start": "2026-11-20",
+    "end": "2026-11-26",
+    "group": "Todos",
+    "official": false,
+    "where": "",
+    "resources": [
+      "mere"
+    ],
+    "depends": "M3",
+    "detail": "Plan propuesto. Póster: problema, pregunta, método, hallazgos y límites. Formato y duración por confirmar.",
+    "status": "Pendiente"
+  },
+  {
+    "id": "C-F",
+    "title": "Conferencia / póster · viernes",
+    "start": "2026-11-27",
+    "end": "2026-11-27",
+    "group": "Viernes",
+    "official": true,
+    "where": "https://aulaglobal.upf.edu/mod/resource/view.php?id=1800805",
+    "resources": [
+      "mere"
+    ],
+    "depends": "F2;C1",
+    "detail": "Presentación del paper en conferencia MERE.",
+    "status": "Pendiente"
+  },
+  {
+    "id": "C-T",
+    "title": "Conferencia / póster · martes",
+    "start": "2026-12-01",
+    "end": "2026-12-01",
+    "group": "Martes",
+    "official": true,
+    "where": "https://aulaglobal.upf.edu/mod/resource/view.php?id=1800805",
+    "resources": [
+      "mere"
+    ],
+    "depends": "F2;C1",
+    "detail": "Presentación del paper en conferencia MERE.",
+    "status": "Pendiente"
+  },
+  {
+    "id": "U1",
+    "title": "Revisar Aula y nuevas tareas semanalmente",
+    "start": "2026-10-13",
+    "end": "2026-12-01",
+    "group": "Todos",
+    "official": false,
+    "where": "https://aulaglobal.upf.edu/course/view.php?id=95580",
+    "resources": [],
+    "depends": "",
+    "detail": "Rutina propuesta: revisar anuncios, secciones y entregas cada semana. Faltan tareas del 60% por publicar; el calendario de Moodle no muestra eventos aunque hay plazos en el texto.",
+    "status": "Pendiente"
+  }
+]

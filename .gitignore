@@ -1,0 +1,6 @@
+materials/originals/
+materials/extracted/
+private/
+submissions/
+.DS_Store
+*.log
