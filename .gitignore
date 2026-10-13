@@ -4,3 +4,7 @@ private/
 submissions/
 .DS_Store
 *.log
+materials/private/
+ACCESS.local.txt
+*.local.json
+__pycache__/

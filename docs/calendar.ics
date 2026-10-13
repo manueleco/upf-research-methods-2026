@@ -1,0 +1,159 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//UPF RM//Course planner//ES
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Research Methods 2026
+BEGIN:VEVENT
+UID:A1-rm-2026@course.local
+DTSTAMP:20261013T100000Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:Assignment 1
+DESCRIPTION:Leer UN capítulo de Eco o de O’Leary y completar el formul
+ ario correspondiente. Plazo vencido\; comprobar justificante\, no asumir
+  que falta.\nHorario: No publicado\nGrupo: Todos\nFuente: https://aulagl
+ obal.upf.edu/mod/page/view.php?id=1800753
+URL:https://aulaglobal.upf.edu/mod/page/view.php?id=1800753
+END:VEVENT
+BEGIN:VEVENT
+UID:G-T-rm-2026@course.local
+DTSTAMP:20261013T100000Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:Equipo y tema · Martes
+DESCRIPTION:Equipo de 4 y registro del tema antes de clase. Comprobar que
+  se hizo.\nHorario: No publicado\nGrupo: Martes\nFuente: https://aulaglo
+ bal.upf.edu/mod/url/view.php?id=1800806
+URL:https://aulaglobal.upf.edu/mod/url/view.php?id=1800806
+END:VEVENT
+BEGIN:VEVENT
+UID:G-F-rm-2026@course.local
+DTSTAMP:20261013T100000Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:Equipo y tema · Viernes
+DESCRIPTION:Equipo de 4 y registro del tema antes de clase. Comprobar que
+  se hizo.\nHorario: No publicado\nGrupo: Viernes\nFuente: https://aulagl
+ obal.upf.edu/mod/url/view.php?id=1800806
+URL:https://aulaglobal.upf.edu/mod/url/view.php?id=1800806
+END:VEVENT
+BEGIN:VEVENT
+UID:A2-rm-2026@course.local
+DTSTAMP:20261013T100000Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:Assignment 2 · ética
+DESCRIPTION:Formulario: certificado\, indicar si es de UPF\, 1–3 ideas 
+ sobre lo que ya sabías y 1–3 sobre lo aprendido. Hora límite no publ
+ icada.\nHorario: No publicado\nGrupo: Todos\nFuente: https://aulaglobal.
+ upf.edu/mod/url/view.php?id=1800759
+URL:https://aulaglobal.upf.edu/mod/url/view.php?id=1800759
+END:VEVENT
+BEGIN:VEVENT
+UID:A3-rm-2026@course.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Europe/Madrid:20261024T235900
+DTEND;TZID=Europe/Madrid:20261025T000000
+SUMMARY:Assignment 3 · borrador MERE
+DESCRIPTION:Hasta 23:59 (hora mostrada en Aula). PDF con preguntas\, revi
+ sión breve\, importancia/originalidad y referencias. Sin envío al revi
+ sar el 13/10.\nHorario: 23:59\nGrupo: Todos\nFuente: https://aulaglobal.
+ upf.edu/mod/assign/view.php?id=1800813
+URL:https://aulaglobal.upf.edu/mod/assign/view.php?id=1800813
+END:VEVENT
+BEGIN:VEVENT
+UID:P-T-rm-2026@course.local
+DTSTAMP:20261013T100000Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:Pitch · martes · Martes
+DESCRIPTION:7 minutos por grupo. Correspondencia martes/27 inferida por d
+ ía de la semana\; confirmar horario.\nHorario: No publicado\nGrupo: Mar
+ tes\nFuente: https://aulaglobal.upf.edu/mod/resource/view.php?id=1800805
+URL:https://aulaglobal.upf.edu/mod/resource/view.php?id=1800805
+END:VEVENT
+BEGIN:VEVENT
+UID:P-F-rm-2026@course.local
+DTSTAMP:20261013T100000Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Pitch · viernes · Viernes
+DESCRIPTION:7 minutos por grupo. Correspondencia viernes/30 inferida por 
+ día de la semana\; confirmar horario.\nHorario: No publicado\nGrupo: Vi
+ ernes\nFuente: https://aulaglobal.upf.edu/mod/resource/view.php?id=18008
+ 05
+URL:https://aulaglobal.upf.edu/mod/resource/view.php?id=1800805
+END:VEVENT
+BEGIN:VEVENT
+UID:M3-rm-2026@course.local
+DTSTAMP:20261013T100000Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:Primer envío del paper
+DESCRIPTION:EasyChair MERE 2026. URL específica y hora pendientes de pub
+ licación/verificación\; el enlace abre instrucciones.\nHorario: No pub
+ licado\nGrupo: Todos\nFuente: https://aulaglobal.upf.edu/mod/resource/vi
+ ew.php?id=1800805
+URL:https://aulaglobal.upf.edu/mod/resource/view.php?id=1800805
+END:VEVENT
+BEGIN:VEVENT
+UID:R2-rm-2026@course.local
+DTSTAMP:20261013T100000Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:Revisión por pares
+DESCRIPTION:Hito de peer review del calendario. Número de trabajos\, rú
+ brica y sistema de entrega por confirmar.\nHorario: No publicado\nGrupo:
+  Todos\nFuente: https://aulaglobal.upf.edu/mod/resource/view.php?id=1800
+ 805
+URL:https://aulaglobal.upf.edu/mod/resource/view.php?id=1800805
+END:VEVENT
+BEGIN:VEVENT
+UID:F2-rm-2026@course.local
+DTSTAMP:20261013T100000Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:Versión final del paper
+DESCRIPTION:Reenvío del paper. Hora y enlace definitivo por confirmar.\n
+ Horario: No publicado\nGrupo: Todos\nFuente: https://aulaglobal.upf.edu/
+ mod/resource/view.php?id=1800805
+URL:https://aulaglobal.upf.edu/mod/resource/view.php?id=1800805
+END:VEVENT
+BEGIN:VEVENT
+UID:C-F-rm-2026@course.local
+DTSTAMP:20261013T100000Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Conferencia / póster · viernes · Viernes
+DESCRIPTION:Presentación del paper en conferencia MERE.\nHorario: No pub
+ licado\nGrupo: Viernes\nFuente: https://aulaglobal.upf.edu/mod/resource/
+ view.php?id=1800805
+URL:https://aulaglobal.upf.edu/mod/resource/view.php?id=1800805
+END:VEVENT
+BEGIN:VEVENT
+UID:C-T-rm-2026@course.local
+DTSTAMP:20261013T100000Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Conferencia / póster · martes · Martes
+DESCRIPTION:Presentación del paper en conferencia MERE.\nHorario: No pub
+ licado\nGrupo: Martes\nFuente: https://aulaglobal.upf.edu/mod/resource/v
+ iew.php?id=1800805
+URL:https://aulaglobal.upf.edu/mod/resource/view.php?id=1800805
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:Europe/Madrid
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+END:VTIMEZONE
+END:VCALENDAR

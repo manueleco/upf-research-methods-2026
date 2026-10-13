@@ -3,7 +3,7 @@
     "id": "reality",
     "title": "Ciencia, consenso e integridad",
     "url": "https://aulaglobal.upf.edu/mod/resource/view.php?id=1800755",
-    "path": "materials/originals/RM-reality-consensus.pdf",
+    "path": "materials/private/originals/RM-reality-consensus.pdf",
     "related": "A2; MERE",
     "sha256": "038f943666330471fb2d95b360435405296c3234327cb9220190858bcc6bcb91",
     "downloaded": true
@@ -12,7 +12,7 @@
     "id": "sources",
     "title": "Fuentes y referencias",
     "url": "https://aulaglobal.upf.edu/mod/resource/view.php?id=1800762",
-    "path": "materials/originals/Information-sources.pdf",
+    "path": "materials/private/originals/Information-sources.pdf",
     "related": "A3; MERE",
     "sha256": "02d1af70630c2808dfd01f5ba93afe6f8ef6f42ce48a89f14a50c8fbf2c1ec9b",
     "downloaded": true
@@ -21,7 +21,7 @@
     "id": "databases",
     "title": "Bases de datos bibliográficas (2013/14)",
     "url": "https://aulaglobal.upf.edu/mod/resource/view.php?id=1800763",
-    "path": "materials/originals/bd_DTIC_2013_14.pdf",
+    "path": "materials/private/originals/bd_DTIC_2013_14.pdf",
     "related": "A3; MERE",
     "sha256": "fab0b435f28788e0eaabc335ef9083d5907f7cc4d16efffa4617a8fa89790a8e",
     "downloaded": true
@@ -30,7 +30,7 @@
     "id": "mere",
     "title": "Instrucciones y calendario MERE",
     "url": "https://aulaglobal.upf.edu/mod/resource/view.php?id=1800805",
-    "path": "materials/originals/Intro Class-The Meta-Research Assignment.pdf",
+    "path": "materials/private/originals/Intro Class-The Meta-Research Assignment.pdf",
     "related": "A3; pitch; paper; revisión; póster",
     "sha256": "8f432f1298edbc085cc86d471ac1ddfbbba8f2aa808d46be7f7154c3713d3c0c",
     "downloaded": true
@@ -39,7 +39,7 @@
     "id": "formulation",
     "title": "Plantilla de formulación",
     "url": "https://aulaglobal.upf.edu/mod/resource/view.php?id=1800810",
-    "path": "materials/originals/Final Project Formulation Template.pptx",
+    "path": "materials/private/originals/Final Project Formulation Template.pptx",
     "related": "A3; pitch",
     "sha256": "34bd6f4f7eda70f1550d22d77d5a29c32035b7f8fd97144b95697e69e698844a",
     "downloaded": true
@@ -48,7 +48,7 @@
     "id": "word",
     "title": "Plantilla del paper Word",
     "url": "https://aulaglobal.upf.edu/mod/resource/view.php?id=1800811",
-    "path": "materials/originals/template for MetaResearch assignment.doc",
+    "path": "materials/private/originals/template for MetaResearch assignment.doc",
     "related": "paper",
     "sha256": "32eea4f459b0a8212d2289a0b2fee59bdae8d375c3430e560b428b3025ea7d18",
     "downloaded": true
@@ -57,7 +57,7 @@
     "id": "olsen",
     "title": "Economics of international conferences",
     "url": "https://aulaglobal.upf.edu/mod/page/view.php?id=1800770",
-    "path": "materials/originals/olsen_04.pdf",
+    "path": "materials/private/originals/olsen_04.pdf",
     "related": "Lectura complementaria; MERE",
     "sha256": "07f9878bbb921fbfa4f7596fcf22a9d0524aa5e35735454f70660ccd0c33a015",
     "downloaded": true
@@ -66,7 +66,7 @@
     "id": "denning",
     "title": "Wikipedia risks",
     "url": "https://aulaglobal.upf.edu/mod/page/view.php?id=1800770",
-    "path": "materials/originals/denning_05b.pdf",
+    "path": "materials/private/originals/denning_05b.pdf",
     "related": "A3; evaluación de fuentes",
     "sha256": "0d0a5814154184a0bbd5c70a68ff01af4fc62ede6f150e557f6a7c072bb88e5f",
     "downloaded": true
@@ -75,7 +75,7 @@
     "id": "session2",
     "title": "Formulación MERE sesión 2",
     "url": "https://aulaglobal.upf.edu/mod/url/view.php?id=1800808",
-    "path": "materials/originals/mere-session2.pdf",
+    "path": "materials/private/originals/mere-session2.pdf",
     "related": "A3; diseño de estudio",
     "sha256": "8df501ad293a51ede5ab749753f2f98441adb0cbf86fa8a86ac7b52d5cc0a2ae",
     "downloaded": true

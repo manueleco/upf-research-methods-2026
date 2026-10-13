@@ -1,0 +1,627 @@
+{
+  "courseId": "upf-rm-2026-2027",
+  "updated": "2026-10-13",
+  "course": "https://aulaglobal.upf.edu/course/view.php?id=95580",
+  "resources": [
+    {
+      "id": "reality",
+      "title": "Ciencia, consenso e integridad",
+      "url": "https://aulaglobal.upf.edu/mod/resource/view.php?id=1800755",
+      "local": "originals/RM-reality-consensus.pdf",
+      "summary": "Relacionada con: A2; MERE.",
+      "kind": "Material docente"
+    },
+    {
+      "id": "sources",
+      "title": "Fuentes y referencias",
+      "url": "https://aulaglobal.upf.edu/mod/resource/view.php?id=1800762",
+      "local": "originals/Information-sources.pdf",
+      "summary": "Relacionada con: A3; MERE.",
+      "kind": "Material docente"
+    },
+    {
+      "id": "databases",
+      "title": "Bases de datos bibliográficas (2013/14)",
+      "url": "https://aulaglobal.upf.edu/mod/resource/view.php?id=1800763",
+      "local": "originals/bd_DTIC_2013_14.pdf",
+      "summary": "Relacionada con: A3; MERE.",
+      "kind": "Material docente"
+    },
+    {
+      "id": "mere",
+      "title": "Instrucciones y calendario MERE",
+      "url": "https://aulaglobal.upf.edu/mod/resource/view.php?id=1800805",
+      "local": "originals/Intro Class-The Meta-Research Assignment.pdf",
+      "summary": "Relacionada con: A3; pitch; paper; revisión; póster.",
+      "kind": "Material docente"
+    },
+    {
+      "id": "formulation",
+      "title": "Plantilla de formulación",
+      "url": "https://aulaglobal.upf.edu/mod/resource/view.php?id=1800810",
+      "local": "originals/Final Project Formulation Template.pptx",
+      "summary": "Relacionada con: A3; pitch.",
+      "kind": "Material docente"
+    },
+    {
+      "id": "word",
+      "title": "Plantilla del paper Word",
+      "url": "https://aulaglobal.upf.edu/mod/resource/view.php?id=1800811",
+      "local": "originals/template for MetaResearch assignment.doc",
+      "summary": "Relacionada con: paper.",
+      "kind": "Material docente"
+    },
+    {
+      "id": "olsen",
+      "title": "Economics of international conferences",
+      "url": "https://aulaglobal.upf.edu/mod/page/view.php?id=1800770",
+      "local": "originals/olsen_04.pdf",
+      "summary": "Relacionada con: Lectura complementaria; MERE.",
+      "kind": "Material docente"
+    },
+    {
+      "id": "denning",
+      "title": "Wikipedia risks",
+      "url": "https://aulaglobal.upf.edu/mod/page/view.php?id=1800770",
+      "local": "originals/denning_05b.pdf",
+      "summary": "Relacionada con: A3; evaluación de fuentes.",
+      "kind": "Material docente"
+    },
+    {
+      "id": "session2",
+      "title": "Formulación MERE sesión 2",
+      "url": "https://aulaglobal.upf.edu/mod/url/view.php?id=1800808",
+      "local": "originals/mere-session2.pdf",
+      "summary": "Relacionada con: A3; diseño de estudio.",
+      "kind": "Material docente"
+    },
+    {
+      "id": "intro",
+      "title": "Introducción y evaluación",
+      "url": "https://aulaglobal.upf.edu/mod/url/view.php?id=1800751",
+      "local": null,
+      "summary": "Relacionada con: todas.",
+      "kind": "Enlace / lecturas"
+    },
+    {
+      "id": "read-intro",
+      "title": "Lecturas Introduction",
+      "url": "https://aulaglobal.upf.edu/mod/page/view.php?id=1800752",
+      "local": null,
+      "summary": "Relacionada con: A1.",
+      "kind": "Enlace / lecturas"
+    },
+    {
+      "id": "read-reality",
+      "title": "Lecturas Reality and consensus",
+      "url": "https://aulaglobal.upf.edu/mod/page/view.php?id=1800757",
+      "local": null,
+      "summary": "Relacionada con: A2.",
+      "kind": "Enlace / lecturas"
+    },
+    {
+      "id": "read-sources",
+      "title": "Lecturas Information sources",
+      "url": "https://aulaglobal.upf.edu/mod/page/view.php?id=1800770",
+      "local": null,
+      "summary": "Relacionada con: A3.",
+      "kind": "Enlace / lecturas"
+    },
+    {
+      "id": "latex",
+      "title": "Plantilla LaTeX LNCS",
+      "url": "https://aulaglobal.upf.edu/mod/url/view.php?id=1800812",
+      "local": null,
+      "summary": "Relacionada con: paper.",
+      "kind": "Enlace / lecturas"
+    },
+    {
+      "id": "data",
+      "title": "Open Data repositories",
+      "url": "https://aulaglobal.upf.edu/mod/url/view.php?id=1800764",
+      "local": null,
+      "summary": "Relacionada con: MERE.",
+      "kind": "Enlace / lecturas"
+    },
+    {
+      "id": "csuc",
+      "title": "Open Data CSUC",
+      "url": "https://aulaglobal.upf.edu/mod/url/view.php?id=1800765",
+      "local": null,
+      "summary": "Relacionada con: MERE.",
+      "kind": "Enlace / lecturas"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "A1",
+      "title": "Assignment 1",
+      "start": "2026-10-09",
+      "end": "2026-10-09",
+      "term": "Introducción",
+      "group": "Todos",
+      "certainty": "Confirmada",
+      "detail": "Leer UN capítulo de Eco o de O’Leary y completar el formulario correspondiente. Plazo vencido; comprobar justificante, no asumir que falta.",
+      "resources": [
+        "read-intro"
+      ],
+      "where": "https://aulaglobal.upf.edu/mod/page/view.php?id=1800753",
+      "depends": [],
+      "status": "pending",
+      "notes": "",
+      "milestone": true,
+      "time": null
+    },
+    {
+      "id": "G-T",
+      "title": "Equipo y tema",
+      "start": "2026-10-06",
+      "end": "2026-10-06",
+      "term": "MERE",
+      "group": "Martes",
+      "certainty": "Confirmada",
+      "detail": "Equipo de 4 y registro del tema antes de clase. Comprobar que se hizo.",
+      "resources": [
+        "mere"
+      ],
+      "where": "https://aulaglobal.upf.edu/mod/url/view.php?id=1800806",
+      "depends": [],
+      "status": "pending",
+      "notes": "",
+      "milestone": true,
+      "time": null
+    },
+    {
+      "id": "G-F",
+      "title": "Equipo y tema",
+      "start": "2026-10-09",
+      "end": "2026-10-09",
+      "term": "MERE",
+      "group": "Viernes",
+      "certainty": "Confirmada",
+      "detail": "Equipo de 4 y registro del tema antes de clase. Comprobar que se hizo.",
+      "resources": [
+        "mere"
+      ],
+      "where": "https://aulaglobal.upf.edu/mod/url/view.php?id=1800806",
+      "depends": [],
+      "status": "pending",
+      "notes": "",
+      "milestone": true,
+      "time": null
+    },
+    {
+      "id": "E1",
+      "title": "Formación ética y certificado",
+      "start": "2026-10-13",
+      "end": "2026-10-17",
+      "term": "Ética",
+      "group": "Todos",
+      "certainty": "Plan personal",
+      "detail": "Formación UPF o equivalente previo. Guardar certificado localmente.",
+      "resources": [
+        "reality",
+        "read-reality"
+      ],
+      "where": "https://www.upf.edu/web/cirep/training-and-resources",
+      "depends": [],
+      "status": "pending",
+      "notes": "",
+      "milestone": false,
+      "time": null
+    },
+    {
+      "id": "A2",
+      "title": "Assignment 2 · ética",
+      "start": "2026-10-19",
+      "end": "2026-10-19",
+      "term": "Ética",
+      "group": "Todos",
+      "certainty": "Confirmada",
+      "detail": "Formulario: certificado, indicar si es de UPF, 1–3 ideas sobre lo que ya sabías y 1–3 sobre lo aprendido. Hora límite no publicada.",
+      "resources": [
+        "reality",
+        "read-reality"
+      ],
+      "where": "https://aulaglobal.upf.edu/mod/url/view.php?id=1800759",
+      "depends": [
+        "E1"
+      ],
+      "status": "pending",
+      "notes": "",
+      "milestone": true,
+      "time": null
+    },
+    {
+      "id": "L1",
+      "title": "3–4 referencias por miembro",
+      "start": "2026-10-13",
+      "end": "2026-10-18",
+      "term": "MERE",
+      "group": "Todos",
+      "certainty": "Plan personal",
+      "detail": "Registrar referencia, autor del hallazgo, resumen, calidad y relación con la pregunta. Mendeley y APA 7 recomendados.",
+      "resources": [
+        "sources",
+        "databases",
+        "read-sources"
+      ],
+      "where": "https://aulaglobal.upf.edu/course/view.php?id=95580",
+      "depends": [],
+      "status": "pending",
+      "notes": "",
+      "milestone": false,
+      "time": null
+    },
+    {
+      "id": "Q1",
+      "title": "Pregunta, revisión y justificación",
+      "start": "2026-10-18",
+      "end": "2026-10-21",
+      "term": "MERE",
+      "group": "Todos",
+      "certainty": "Plan personal",
+      "detail": "Definir una pregunta sobre cómo las herramientas IA afectan al trabajo de investigación y una metodología viable.",
+      "resources": [
+        "session2",
+        "formulation",
+        "mere"
+      ],
+      "where": "https://aulaglobal.upf.edu/course/view.php?id=95580",
+      "depends": [
+        "L1"
+      ],
+      "status": "pending",
+      "notes": "",
+      "milestone": false,
+      "time": null
+    },
+    {
+      "id": "D1",
+      "title": "Redactar y revisar PDF A3",
+      "start": "2026-10-21",
+      "end": "2026-10-23",
+      "term": "MERE",
+      "group": "Todos",
+      "certainty": "Plan personal",
+      "detail": "2 páginas de texto + 1 de referencias; incluir apéndice de contribuciones. Confirmar si el apéndice cuenta dentro del límite.",
+      "resources": [
+        "sources",
+        "formulation",
+        "mere"
+      ],
+      "where": "https://aulaglobal.upf.edu/course/view.php?id=95580",
+      "depends": [
+        "Q1"
+      ],
+      "status": "pending",
+      "notes": "",
+      "milestone": false,
+      "time": null
+    },
+    {
+      "id": "A3",
+      "title": "Assignment 3 · borrador MERE",
+      "start": "2026-10-24",
+      "end": "2026-10-24",
+      "term": "MERE",
+      "group": "Todos",
+      "certainty": "Confirmada",
+      "detail": "Hasta 23:59 (hora mostrada en Aula). PDF con preguntas, revisión breve, importancia/originalidad y referencias. Sin envío al revisar el 13/10.",
+      "resources": [
+        "mere",
+        "formulation",
+        "sources"
+      ],
+      "where": "https://aulaglobal.upf.edu/mod/assign/view.php?id=1800813",
+      "depends": [
+        "D1"
+      ],
+      "status": "pending",
+      "notes": "",
+      "milestone": true,
+      "time": "23:59"
+    },
+    {
+      "id": "P0",
+      "title": "Preparar pitch de 7 minutos",
+      "start": "2026-10-24",
+      "end": "2026-10-26",
+      "term": "MERE",
+      "group": "Todos",
+      "certainty": "Plan personal",
+      "detail": "Tema, problema, pregunta y enfoque metodológico. Ensayar y distribuir intervenciones.",
+      "resources": [
+        "formulation",
+        "mere"
+      ],
+      "where": "https://aulaglobal.upf.edu/course/view.php?id=95580",
+      "depends": [
+        "A3"
+      ],
+      "status": "pending",
+      "notes": "",
+      "milestone": false,
+      "time": null
+    },
+    {
+      "id": "P-T",
+      "title": "Pitch · martes",
+      "start": "2026-10-27",
+      "end": "2026-10-27",
+      "term": "MERE",
+      "group": "Martes",
+      "certainty": "Confirmada",
+      "detail": "7 minutos por grupo. Correspondencia martes/27 inferida por día de la semana; confirmar horario.",
+      "resources": [
+        "mere"
+      ],
+      "where": "https://aulaglobal.upf.edu/mod/resource/view.php?id=1800805",
+      "depends": [
+        "P0"
+      ],
+      "status": "pending",
+      "notes": "",
+      "milestone": true,
+      "time": null
+    },
+    {
+      "id": "P-F",
+      "title": "Pitch · viernes",
+      "start": "2026-10-30",
+      "end": "2026-10-30",
+      "term": "MERE",
+      "group": "Viernes",
+      "certainty": "Confirmada",
+      "detail": "7 minutos por grupo. Correspondencia viernes/30 inferida por día de la semana; confirmar horario.",
+      "resources": [
+        "mere"
+      ],
+      "where": "https://aulaglobal.upf.edu/mod/resource/view.php?id=1800805",
+      "depends": [
+        "P0"
+      ],
+      "status": "pending",
+      "notes": "",
+      "milestone": true,
+      "time": null
+    },
+    {
+      "id": "M1",
+      "title": "Ejecutar estudio y analizar datos",
+      "start": "2026-10-28",
+      "end": "2026-11-05",
+      "term": "MERE",
+      "group": "Todos",
+      "certainty": "Plan personal",
+      "detail": "Plan propuesto: fijar protocolo, conservar datos y registrar herramientas/versiones, criterios y limitaciones.",
+      "resources": [
+        "session2",
+        "formulation"
+      ],
+      "where": "https://aulaglobal.upf.edu/course/view.php?id=95580",
+      "depends": [
+        "Q1"
+      ],
+      "status": "pending",
+      "notes": "",
+      "milestone": false,
+      "time": null
+    },
+    {
+      "id": "M2",
+      "title": "Escribir paper y declaración de autoría",
+      "start": "2026-11-05",
+      "end": "2026-11-10",
+      "term": "MERE",
+      "group": "Todos",
+      "certainty": "Plan personal",
+      "detail": "Máximo 8 páginas + referencias. Revisar evidencia, método, resultados, discusión y autoría.",
+      "resources": [
+        "word",
+        "latex",
+        "mere"
+      ],
+      "where": "https://aulaglobal.upf.edu/course/view.php?id=95580",
+      "depends": [
+        "M1"
+      ],
+      "status": "pending",
+      "notes": "",
+      "milestone": false,
+      "time": null
+    },
+    {
+      "id": "M3",
+      "title": "Primer envío del paper",
+      "start": "2026-11-11",
+      "end": "2026-11-11",
+      "term": "MERE",
+      "group": "Todos",
+      "certainty": "Confirmada",
+      "detail": "EasyChair MERE 2026. URL específica y hora pendientes de publicación/verificación; el enlace abre instrucciones.",
+      "resources": [
+        "mere",
+        "word",
+        "latex"
+      ],
+      "where": "https://aulaglobal.upf.edu/mod/resource/view.php?id=1800805",
+      "depends": [
+        "M2"
+      ],
+      "status": "pending",
+      "notes": "",
+      "milestone": true,
+      "time": null
+    },
+    {
+      "id": "R1",
+      "title": "Preparar revisión por pares",
+      "start": "2026-11-12",
+      "end": "2026-11-17",
+      "term": "MERE",
+      "group": "Todos",
+      "certainty": "Plan personal",
+      "detail": "Leer trabajos asignados y elaborar comentarios sustentados sobre método, evidencia, claridad y mejoras.",
+      "resources": [
+        "mere"
+      ],
+      "where": "https://aulaglobal.upf.edu/course/view.php?id=95580",
+      "depends": [
+        "M3"
+      ],
+      "status": "pending",
+      "notes": "",
+      "milestone": false,
+      "time": null
+    },
+    {
+      "id": "R2",
+      "title": "Revisión por pares",
+      "start": "2026-11-18",
+      "end": "2026-11-18",
+      "term": "MERE",
+      "group": "Todos",
+      "certainty": "Confirmada",
+      "detail": "Hito de peer review del calendario. Número de trabajos, rúbrica y sistema de entrega por confirmar.",
+      "resources": [
+        "mere"
+      ],
+      "where": "https://aulaglobal.upf.edu/mod/resource/view.php?id=1800805",
+      "depends": [
+        "R1"
+      ],
+      "status": "pending",
+      "notes": "",
+      "milestone": true,
+      "time": null
+    },
+    {
+      "id": "F1",
+      "title": "Integrar feedback y revisar paper",
+      "start": "2026-11-19",
+      "end": "2026-11-24",
+      "term": "MERE",
+      "group": "Todos",
+      "certainty": "Plan personal",
+      "detail": "Registrar cada comentario, respuesta y cambio; preparar versión final.",
+      "resources": [
+        "mere",
+        "word",
+        "latex"
+      ],
+      "where": "https://aulaglobal.upf.edu/course/view.php?id=95580",
+      "depends": [
+        "R2"
+      ],
+      "status": "pending",
+      "notes": "",
+      "milestone": false,
+      "time": null
+    },
+    {
+      "id": "F2",
+      "title": "Versión final del paper",
+      "start": "2026-11-25",
+      "end": "2026-11-25",
+      "term": "MERE",
+      "group": "Todos",
+      "certainty": "Confirmada",
+      "detail": "Reenvío del paper. Hora y enlace definitivo por confirmar.",
+      "resources": [
+        "mere"
+      ],
+      "where": "https://aulaglobal.upf.edu/mod/resource/view.php?id=1800805",
+      "depends": [
+        "F1"
+      ],
+      "status": "pending",
+      "notes": "",
+      "milestone": true,
+      "time": null
+    },
+    {
+      "id": "C1",
+      "title": "Preparar póster y presentación",
+      "start": "2026-11-20",
+      "end": "2026-11-26",
+      "term": "MERE",
+      "group": "Todos",
+      "certainty": "Plan personal",
+      "detail": "Plan propuesto. Póster: problema, pregunta, método, hallazgos y límites. Formato y duración por confirmar.",
+      "resources": [
+        "mere"
+      ],
+      "where": "https://aulaglobal.upf.edu/course/view.php?id=95580",
+      "depends": [
+        "M3"
+      ],
+      "status": "pending",
+      "notes": "",
+      "milestone": false,
+      "time": null
+    },
+    {
+      "id": "C-F",
+      "title": "Conferencia / póster · viernes",
+      "start": "2026-11-27",
+      "end": "2026-11-27",
+      "term": "MERE",
+      "group": "Viernes",
+      "certainty": "Confirmada",
+      "detail": "Presentación del paper en conferencia MERE.",
+      "resources": [
+        "mere"
+      ],
+      "where": "https://aulaglobal.upf.edu/mod/resource/view.php?id=1800805",
+      "depends": [
+        "F2",
+        "C1"
+      ],
+      "status": "pending",
+      "notes": "",
+      "milestone": true,
+      "time": null
+    },
+    {
+      "id": "C-T",
+      "title": "Conferencia / póster · martes",
+      "start": "2026-12-01",
+      "end": "2026-12-01",
+      "term": "MERE",
+      "group": "Martes",
+      "certainty": "Confirmada",
+      "detail": "Presentación del paper en conferencia MERE.",
+      "resources": [
+        "mere"
+      ],
+      "where": "https://aulaglobal.upf.edu/mod/resource/view.php?id=1800805",
+      "depends": [
+        "F2",
+        "C1"
+      ],
+      "status": "pending",
+      "notes": "",
+      "milestone": true,
+      "time": null
+    },
+    {
+      "id": "U1",
+      "title": "Revisar Aula y nuevas tareas semanalmente",
+      "start": "2026-10-13",
+      "end": "2026-12-01",
+      "term": "Continuo",
+      "group": "Todos",
+      "certainty": "Plan personal",
+      "detail": "Rutina propuesta: revisar anuncios, secciones y entregas cada semana. Faltan tareas del 60% por publicar; el calendario de Moodle no muestra eventos aunque hay plazos en el texto.",
+      "resources": [],
+      "where": "https://aulaglobal.upf.edu/course/view.php?id=95580",
+      "depends": [],
+      "status": "pending",
+      "notes": "",
+      "milestone": false,
+      "time": null
+    }
+  ],
+  "topics": []
+}
