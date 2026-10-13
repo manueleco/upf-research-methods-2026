@@ -30,20 +30,27 @@ Pitch 7 minutos: 27/30 octubre (martes/viernes, correspondencia inferida por cal
 
 La presentación Introduction publicada se conserva como enlace; la exportación no admite su formato publicado. Las lecturas externas se catalogan como enlaces, no están todas descargadas. Las secciones sobre formulación, métodos, escritura, investigadores, cierre y competencia digital están bloqueadas. Revisar cada semana para ampliar el plan. Los bloques del Gantt son una propuesta de trabajo; solo los hitos marcados como oficiales provienen del curso.
 
-## GitHub
+## Tablero y progreso
 
-Nombre recomendado: `upf-research-methods-2026`. Alternativas: `upf-rm-2026` o `mere-2026-research-log`. Mantener privado si contiene trabajo o datos del equipo. Los originales y sus transcripciones quedan excluidos de Git; una imagen del curso prohíbe expresamente su distribución fuera de este.
+Kanban organiza las tareas en cuatro estados: Por confirmar (ámbar), Pendiente (gris), En curso (azul) y Hecho (verde). Desbloquea la edición y arrastra desde el control Mover hacia otra columna. También puedes cambiar el estado con el selector o marcar la casilla de completado. La vista Lista conserva las tarjetas horizontales.
 
-Desde la carpeta RM:
+La página empieza en modo lectura y vuelve a bloquearse al recargar. La clave de edición es un bloqueo de interfaz para evitar cambios accidentales; no es autenticación de servidor. El progreso se guarda únicamente en este navegador y no modifica los archivos de GitHub. Usa Exportar progreso e Importar progreso para trasladarlo entre dispositivos.
+
+## GitHub Pages
+
+Repositorio: https://github.com/manueleco/upf-research-methods-2026
+
+En Settings → Pages, selecciona Deploy from a branch, rama main y carpeta / (root). La página se publicará en https://manueleco.github.io/upf-research-methods-2026/.
+
+Para subir cambios del plan:
 
 ```sh
-git status --short
-git add README.md .gitignore index.html planning materials/catalog.json notes projects
-git commit -m "Organize Research Methods course plan and materials index"
-gh repo create upf-research-methods-2026 --private --source=. --remote=origin --push
+git add index.html README.md planning materials/catalog.json notes projects .nojekyll
+git commit -m "Update course planner"
+git push origin main
 ```
 
-La última orden crea y sube el repositorio; ejecútala cuando quieras publicarlo en tu cuenta. Alternativa: crear un repositorio privado vacío en GitHub y seguir sus comandos de remote/push. No hay licencia general para materiales de terceros. Los estados del panel se guardan en ese navegador; usa Exportar progreso para conservarlos o moverlos.
+Los materiales docentes originales y sus transcripciones quedan excluidos de Git. La versión publicada abre los enlaces de Aula Global; los archivos locales siguen disponibles al abrir la página desde tu ordenador. No hay licencia general para redistribuir materiales de terceros.
 
 ## Fuentes
 
