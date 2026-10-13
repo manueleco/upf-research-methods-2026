@@ -4,13 +4,17 @@ Panel de seguimiento del curso 2026–2027 con tarjetas horizontales, Kanban, Ga
 
 ## Abrir el panel
 
-Desde esta carpeta:
+Puedes hacer doble clic en `Abrir-RM.command` o ejecutar desde cualquier directorio:
 
 ```sh
-python3 -m http.server 8000 --bind 127.0.0.1 --directory docs
+python3 "/Users/meco/MBP Files/Gits/upf/RM/serve.py"
 ```
 
-Abre http://127.0.0.1:8000. El sitio carga data.json, por lo que requiere un servidor local o GitHub Pages. La entrada index.html de la raíz redirige a docs/ para mantener compatible la publicación desde la raíz del repositorio.
+El lanzador sirve siempre la carpeta docs/ de este proyecto. RM utiliza el puerto preferido 8321. Si está ocupado, prueba los siguientes 31 puertos y, si todos están ocupados, el sistema asigna uno libre. La terminal muestra la URL real; abre esa dirección. No detiene ni modifica los servidores de otros cursos. Ctrl+C detiene únicamente el servidor de RM.
+
+Para escoger otro puerto preferido, añade `--port 8325`. El progreso del navegador depende de la dirección y del puerto: exporta desde la dirección anterior e importa en la nueva si necesitas trasladarlo. Mantener libre el puerto preferido permite volver al mismo progreso en las siguientes sesiones.
+
+El sitio carga data.json, por lo que requiere un servidor local o GitHub Pages. La entrada index.html de la raíz redirige a docs/ para mantener compatible la publicación desde la raíz del repositorio.
 
 ## Vistas y cambios
 
